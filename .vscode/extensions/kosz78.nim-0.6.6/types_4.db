@@ -1,0 +1,7 @@
+{"ws":"/Users/gmshiba/Desktop/NimProjects","file":"/Users/gmshiba/Desktop/NimProjects/test.nim","range_start":{"_line":4,"_character":5},"range_end":{"_line":4,"_character":5},"type":"inc1","container":"test","kind":11,"_id":"LvtNUS0dALkCShCF"}
+{"ws":"/Users/gmshiba/Desktop/NimProjects","file":"/Users/gmshiba/Desktop/NimProjects/test.nim","range_start":{"_line":2,"_character":4},"range_end":{"_line":2,"_character":4},"type":"t","container":"test","kind":12,"_id":"lxBgT0MeVJ0FNhvj"}
+{"ws":"/Users/gmshiba/Desktop/NimProjects","file":"/Users/gmshiba/Desktop/NimProjects/test.nim","range_start":{"_line":7,"_character":5},"range_end":{"_line":7,"_character":5},"type":"inc2","container":"test","kind":11,"_id":"syGTLxiBkVfnBgyU"}
+{"$$indexCreated":{"fieldName":"workspace","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"file","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"timestamp","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"type","unique":false,"sparse":false}}
