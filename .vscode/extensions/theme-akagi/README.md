@@ -1,5 +1,5 @@
-#Railgun Theme
+#Akagi Theme
 
-A passionate theme.
+A color theme inspired by the livery of warships
 
-![](https://raw.githubusercontent.com/be5invis/vsc-theme-railgun/master/images/sample.png)
+![](https://raw.githubusercontent.com/gmshiba/theme-akagi/master/images/sample.png)

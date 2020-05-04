@@ -1,7 +1,7 @@
 {
 	"name": "theme-akagi",
 	"version": "0.1.0",
-	"publisher": "ShunsukeShibayama",
+	"publisher": "Shunsuke Shibayama",
 	"engines": { "vscode": "^1.13.0" },
 	"displayName": "Akagi Theme",
 	"description": "Akagi themes for VS Code.",
@@ -13,7 +13,7 @@
 				"label": "Akagi",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Akagi.json"
-			},
+			}
 		]
 	}
 }
