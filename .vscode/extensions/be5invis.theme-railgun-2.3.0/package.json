@@ -1,0 +1,38 @@
+{
+	"name": "theme-railgun",
+	"version": "2.3.0",
+	"publisher": "be5invis",
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"displayName": "Railgun Theme",
+	"description": "Railgun themes for VS Code.",
+	"categories": [
+		"Themes"
+	],
+	"icon": "images/icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Railgun",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Railgun.json"
+			},
+			{
+				"label": "Railgun Chroma",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Railgun Chroma.json"
+			},
+			{
+				"label": "Railgun Pale",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Railgun Pale.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "bdd413ff-bc5f-4116-874c-a6af23c52d23",
+		"publisherId": "8c148d69-cbc6-480b-bd8b-a42715926324",
+		"publisherDisplayName": "be5invis"
+	}
+}

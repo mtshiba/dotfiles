@@ -13,3 +13,4 @@ call pathogen#helptags()
 
 " nerdtree
 map <C-n> :NERDTreeToggle<CR>
+
