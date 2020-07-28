@@ -2,7 +2,7 @@
 
 DOTPATH=~/dotfiles
 
-if "$SHELL" = "/bin/bash"; then
+if [ "$SHELL" = "/bin/bash" ]; then
     ZSH_DIR=$(cat /etc/shells | grep zsh)
     # ZSH not found
     if [ -z "$ZSH_DIR" ]; then
