@@ -1,16 +1,1 @@
-/.DS_Store
-/dotfiles/
-/.*/
-/.*
-/javasharedresources/
-/apt-vim/
-/Applications/
-/Desktop/
-/Documents/
-/Downloads/
-/Library/
-/Movies/
-/Music/
-/Pictures/
-/Public/
-/VirtualBox VMs/
+.DS_store
