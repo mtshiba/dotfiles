@@ -2,5 +2,5 @@
 ```
 chmod +x dotfiles/install.sh
 cd ~/dotfiles
-./install.sh
+sudo ./install.sh
 ```
