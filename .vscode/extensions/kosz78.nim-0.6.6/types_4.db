@@ -1,9 +1,0 @@
-{"ws":"/Users/gmshiba/Desktop/NimProjects","file":"/Users/gmshiba/Desktop/NimProjects/test.nim","range_start":{"_line":2,"_character":5},"range_end":{"_line":2,"_character":5},"type":"f","container":"test","kind":11,"_id":"1i7DPUS7YLVcYhe0"}
-{"ws":"/Users/gmshiba/Documents/GitHub/anytype","file":"/Users/gmshiba/Documents/GitHub/anytype/src/anytype/submodule.nim","range_start":{"_line":6,"_character":2},"range_end":{"_line":6,"_character":2},"type":"Submodule","container":"submodule","kind":4,"_id":"Kq3xj6T9CkhLEovD"}
-{"ws":"/Users/gmshiba/Documents/GitHub/anytype","file":"/Users/gmshiba/Documents/GitHub/anytype/src/anytype/submodule.nim","range_start":{"_line":9,"_character":5},"range_end":{"_line":9,"_character":5},"type":"initSubmodule","container":"submodule","kind":11,"_id":"XBJGr5ZaNrXQRPJz"}
-{"ws":"/Users/gmshiba/Documents/GitHub/anytype","file":"/Users/gmshiba/Documents/GitHub/anytype/src/anytype/submodule.nim","range_start":{"_line":7,"_character":4},"range_end":{"_line":7,"_character":4},"type":"name","container":"submodule.Submodule","kind":6,"_id":"juOFRww8pZXWKEfQ"}
-{"ws":"/Users/gmshiba/Documents/GitHub/anytype","file":"/Users/gmshiba/Documents/GitHub/anytype/src/anytype.nim","range_start":{"_line":6,"_character":5},"range_end":{"_line":6,"_character":5},"type":"add","container":"anytype","kind":11,"_id":"oAWvU1rOixRe9Zxv"}
-{"$$indexCreated":{"fieldName":"workspace","unique":false,"sparse":false}}
-{"$$indexCreated":{"fieldName":"file","unique":false,"sparse":false}}
-{"$$indexCreated":{"fieldName":"timestamp","unique":false,"sparse":false}}
-{"$$indexCreated":{"fieldName":"type","unique":false,"sparse":false}}

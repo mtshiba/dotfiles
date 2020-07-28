@@ -6,5 +6,5 @@ for f in .??*
 do
     [ "$f" = ".git" ] && continue
 
-    unlink "$HOME"/"$f"
+    unlink "$HOME/$f"
 done
