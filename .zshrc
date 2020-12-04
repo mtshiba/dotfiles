@@ -9,9 +9,6 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 # [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-hash -d github=/Users/gmshiba/documents/github
-hash -d erg=/Users/gmshiba/documents/github/erg
-
 alias term='terminalizer'
 alias 'term-rec'='terminalizer record'
 alias 'term-rend'='terminalizer render'
@@ -20,6 +17,7 @@ alias 'slp-on'='sudo pmset -a disablesleep 0'
 alias 'slp-off'='sudo pmset -a disablesleep 1'
 alias portscan='nmap -sV -sC -A'
 alias sudo="sudo "
+alias sagi='sudo apt-get install'
 alias downnow="sudo shutdown -h now"↲
 # alias えぃt="exit"↲
 
