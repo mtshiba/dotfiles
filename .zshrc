@@ -7,8 +7,6 @@
 
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH="/Users/gmshiba/.cargo/bin:/Users/gmshiba/.nimble/bin:/Users/gmshiba/.zplug/repos/zplug/zplug/bin:/Users/gmshiba/.zplug/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/gmshiba/.vimpkg/bin"
-export PATH="$PATH:/usr/local/Cellar/openvpn/2.4.9/sbin"
 # [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 hash -d github=/Users/gmshiba/documents/github
@@ -20,10 +18,10 @@ alias 'term-rend'='terminalizer render'
 alias 'term-play'='terminalizer play'
 alias 'slp-on'='sudo pmset -a disablesleep 0'
 alias 'slp-off'='sudo pmset -a disablesleep 1'
-alias pscan='nmap -sV -sC -A'
+alias portscan='nmap -sV -sC -A'
 alias sudo="sudo "
-alias boot-kali="vboxmanage startvm Kali-Linux-2020.2a-vbox-amd64"
-alias ssh-kali="ssh kali@192.168.56.101"
+alias downnow="sudo shutdown -h now"↲
+# alias えぃt="exit"↲
 
 # Path to your oh-my-zsh installation.
 export ZSH="~/.oh-my-zsh"
