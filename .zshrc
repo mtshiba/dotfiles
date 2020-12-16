@@ -21,7 +21,7 @@ alias sagi='sudo apt-get install'
 alias downnow="sudo shutdown -h now"↲
 # alias えぃt="exit"↲
 
-# If prompt says oh-my-zsh.zsh not found, specify the full path of home.
+# If prompt says ~/.oh-my-zsh/oh-my-zsh.sh not found, specify the full path of home.
 export ZSH="~/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
