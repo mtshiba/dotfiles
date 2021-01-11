@@ -14,3 +14,19 @@ call pathogen#helptags()
 " nerdtree
 map <C-n> :NERDTreeToggle<CR>
 inoremap <silent> jj <ESC>
+
+" completion: { ( [
+inoremap { {}<Left>
+inoremap {<Enter> {}<Left><CR><ESC><S-o>
+inoremap () ()
+inoremap ( ()<ESC>i
+inoremap (<Enter> ()<Left><CR><ESC><S-o>
+inoremap [ []<ESC>i
+inoremap [<Enter> []<Left><CR><ESC><S-o>
+
+" completion: ' " <
+inoremap '' ''
+inoremap ' ''<ESC>i
+inoremap "" ""
+inoremap " ""<ESC>i
+inoremap < <><ESC>i
