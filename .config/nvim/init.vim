@@ -11,7 +11,7 @@ set listchars=tab:▸\ ,eol:↲,extends:❯,precedes:❮
 " execute pathogen#infect()
 " call pathogen#helptags()
 
-call plug#begin('C:\Users\sbym8\AppData\Local\nvim\plugged')
+call plug#begin('~/.vim/plugged')
   " Plug 'cocopon/iceberg.vim'
   Plug 'rust-lang/rust.vim'
   Plug 'neoclide/coc.nvim', {'branch': 'release'}
