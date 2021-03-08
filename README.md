@@ -6,6 +6,8 @@ cd ~/dotfiles
 ./install.sh # don't execute as root (sudo)
 ```
 
+Oh-my-zsh may replace .zshrc with .zshrc.pre-oh-my-zsh. Fix it.
+
 ## Font
 
 * powerlevel10k uses Nerd font. I recommend 'Meslo Nerd Font'. Run the following command and install it.
