@@ -3,7 +3,7 @@
 ```
 chmod +x dotfiles/install.sh
 cd ~/dotfiles
-sudo ./install.sh
+./install.sh # don't execute as root (sudo)
 ```
 
 ## Font
