@@ -2,11 +2,14 @@
 
 DOTPATH=${HOME}/dotfiles
 
+type curl > /dev/null 2>&1 || (echo "please install curl"; exit 1)
+type git > /dev/null 2>&1 || (echo "please install git"; exit 1)
+
 if [ "$SHELL" = "/bin/bash" ]; then
     ZSH_DIR=$(cat /etc/shells | grep zsh)
     # ZSH not found
     if [ -z "$ZSH_DIR" ]; then
-        echo "please install and chsh zsh"; exit 1
+        echo "please install and chsh to zsh"; exit 1
     # ZSH found
     else
         chsh -s "$ZSH_DIR"
