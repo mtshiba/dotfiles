@@ -9,6 +9,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 # [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
+alias cl='clear'
 alias term='terminalizer'
 alias 'term-rec'='terminalizer record'
 alias 'term-rend'='terminalizer render'
@@ -16,10 +17,10 @@ alias 'term-play'='terminalizer play'
 alias 'slp-on'='sudo pmset -a disablesleep 0'
 alias 'slp-off'='sudo pmset -a disablesleep 1'
 alias portscan='nmap -sV -sC -A'
-alias sudo="sudo "
+alias sudo='sudo '
 alias sagi='sudo apt-get install'
-alias downnow="sudo shutdown -h now"↲
-# alias えぃt="exit"↲
+alias downnow='shutdown now'
+# alias えぃt='exit'↲
 
 # If prompt says ~/.oh-my-zsh/oh-my-zsh.sh not found, specify the full path of home.
 export ZSH="$HOME/.oh-my-zsh"
