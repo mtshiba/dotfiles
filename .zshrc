@@ -22,6 +22,9 @@ alias sagi='sudo apt-get install'
 alias downnow='shutdown now'
 # alias えぃt='exit'↲
 
+# ln -s $(which fdfind) ~/.local/bin/fd
+# export RUSTC_WRAPPER=$(which sccache)
+
 # If prompt says ~/.oh-my-zsh/oh-my-zsh.sh not found, specify the full path of home.
 export ZSH="$HOME/.oh-my-zsh"
 
