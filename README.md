@@ -3,6 +3,7 @@
 ```
 chmod +x dotfiles/install.sh
 cd ~/dotfiles
+# If you put `dotfiles` outside of $HOME, edit the $DOTPATH in `install.sh`.
 ./install.sh # don't execute as root (sudo)
 ```
 
