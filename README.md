@@ -1,5 +1,7 @@
 # Setup
 
+The dotfiles directory should be placed under the home directory.
+
 ```
 chmod +x dotfiles/install.sh
 cd ~/dotfiles
