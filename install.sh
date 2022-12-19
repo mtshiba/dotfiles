@@ -29,3 +29,14 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 # install color scheme(powerlevel10k)
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+
+# install gcc, make
+# if ubuntu, execute apt, if mac, execute brew
+if [ "$(uname)" = "Darwin" ]; then
+    brew install gcc make
+elif [ "$(expr substr $(uname -s) 1 5)" = "Linux" ]; then
+    sudo apt install gcc make
+fi
+
+# install rustup
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
