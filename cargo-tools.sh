@@ -1,0 +1,9 @@
+# install openssl
+cargo install cargo-update
+cargo install hyperfine
+cargo install ripgrep
+cargo install fd-find
+cargo install lsd
+cargo install bat
+cargo install tokei
+cargo install du-dust
