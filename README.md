@@ -23,5 +23,5 @@ mv ~/.zshrc.pre-oh-my-zsh ~/.zshrc
 * powerlevel10k uses Nerd font. I recommend 'Meslo Nerd Font'. Run the following command and install it.
 
 ``` sh
-curl -fLo "Meslo Nerd Font.ttf" https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Meslo/M/Regular/complete/Meslo%20LG%20M%20Regular%20Nerd%20Font%20Complete.ttf
+curl -fLo "MesloNerdFont.ttf" https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Meslo/M/Regular/MesloLGMNerdFontMono-Regular.ttf
 ```
