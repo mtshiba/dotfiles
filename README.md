@@ -11,6 +11,8 @@ cd ~/dotfiles
 
 Once oh-my-zsh is installed, the zsh shell will be newly started, and you should exit once.
 
+<img width="796" alt="zsh_exit" src="https://github.com/mtshiba/dotfiles/assets/45118249/55aa7c14-7d8e-428e-a8b2-ebc6a2bfd761">
+
 Oh-my-zsh may replace .zshrc with .zshrc.pre-oh-my-zsh. Fix it.
 
 ```sh
